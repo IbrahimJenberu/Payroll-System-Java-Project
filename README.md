@@ -48,7 +48,7 @@ Ensure you have installed:
 
 ### 2️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/payrollsystem.git
+git clone https://github.com/IbrahimJenberu/payrollsystem.git
 cd payrollsystem
 ```
 
