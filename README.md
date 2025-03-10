@@ -20,18 +20,7 @@ A **Payroll Management System** built using **Java**, designed to streamline emp
 
 ```
 
-## 🎯 How to Run
-### 1️⃣ Prerequisites
-Ensure you have installed:
-- **Java JDK 17+**
-- **MySQL** (for database integration)
-- **Gradle** (for dependency management)
 
-### 2️⃣ Clone the Repository
-```sh
-git clone https://github.com/IbrahimJenberu/payrollsystem.git
-cd payrollsystem
-```
 
 ### 3️⃣ Configure the Database
 Update `application.properties` with your database credentials:
