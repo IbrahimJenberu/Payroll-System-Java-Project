@@ -22,6 +22,7 @@ A **Payroll Management System** built using **Java**, designed to streamline emp
 
 
 
+```
 ### 3️⃣ Configure the Database
 Update `application.properties` with your database credentials:
 ```properties
