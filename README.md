@@ -8,43 +8,24 @@ A **Payroll Management System** built using **Java**, designed to streamline emp
 - ✅ Tax and insurance deduction calculations
 - ✅ Monthly and weekly payroll generation
 - ✅ Secure user authentication and role-based access
-- ✅ PDF payslip generation and email notifications
 - ✅ Database integration with MySQL
 
 ## 🛠️ Tech Stack
 - **Programming Language:** Java (JDK 17+)
-- **Framework:** JavaFX / Spring Boot (optional)
-- **Database:** MySQL / PostgreSQL
-- **Libraries:** Hibernate, JasperReports (for payslip generation)
-- **Build Tool:** Maven / Gradle
+- **Framework:** JavaFX
+- **Database:** MySQL
+- **Libraries:** Hibernate, JasperReports
+- **Build Tool:** Gradle
 
-## 📂 Project Structure
-```
-📦 PayrollSystem
- ┣ 📂 src
- ┃ ┣ 📂 main
- ┃ ┃ ┣ 📂 java
- ┃ ┃ ┃ ┣ 📂 com.payrollsystem
- ┃ ┃ ┃ ┃ ┣ 📜 Main.java
- ┃ ┃ ┃ ┃ ┣ 📜 Employee.java
- ┃ ┃ ┃ ┃ ┣ 📜 PayrollService.java
- ┃ ┃ ┃ ┃ ┣ 📜 DatabaseConnector.java
- ┃ ┃ ┃ ┃ ┣ 📜 TaxCalculator.java
- ┃ ┃ ┃ ┃ ┣ 📜 PayslipGenerator.java
- ┃ ┃ ┣ 📂 resources
- ┃ ┃ ┃ ┣ 📜 application.properties
- ┃ ┃ ┃ ┣ 📜 styles.css
- ┃ ┣ 📂 test
- ┃ ┃ ┣ 📜 PayrollServiceTest.java
- ┗ 📜 README.md
+
 ```
 
 ## 🎯 How to Run
 ### 1️⃣ Prerequisites
 Ensure you have installed:
 - **Java JDK 17+**
-- **MySQL or PostgreSQL** (for database integration)
-- **Maven or Gradle** (for dependency management)
+- **MySQL** (for database integration)
+- **Gradle** (for dependency management)
 
 ### 2️⃣ Clone the Repository
 ```sh
@@ -65,11 +46,6 @@ spring.datasource.password=yourpassword
 mvn clean install
 mvn spring-boot:run
 ```
-
-## 📸 Screenshots
-| Login Page  | Dashboard |
-|------------|------------|
-| ![Login](https://via.placeholder.com/300x200) | ![Dashboard](https://via.placeholder.com/300x200) |
 
 ## 🤝 Contributing
 We welcome contributions! To contribute:
