@@ -70,7 +70,6 @@ public class SalaryEmp extends Employee implements InterfaceTax{
                     getFirstName(), getMiddleName(), getLastName(), getId(), getGender(), getEmployeType(), getGrossSalary(), earning(), getZone(), getWoreda(), getCity(), getTel());
 
             }
-
         }
 
     @Override
