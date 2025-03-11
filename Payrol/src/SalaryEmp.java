@@ -77,5 +77,4 @@ public class SalaryEmp extends Employee implements InterfaceTax{
     public void taxStatus() { // implemments from interface class
         System.out.println("Tax is implemented according to country civil-servant tax law");
     }
-
 }
