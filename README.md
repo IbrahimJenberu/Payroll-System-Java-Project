@@ -50,10 +50,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 👨‍💻 **Developed By:** [Ebrahim Jenberu](https://github.com/IbrahimJenberu) | 🌟 **Star the repo if you find it useful!** ⭐
-
-
-
-
-
-
-
